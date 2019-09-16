@@ -931,35 +931,7 @@
 		margin:0 auto 30px;	
 	}
 	
-	.news-block-two .inner-box .lower-content{
-		margin:-10px 10px 0px 10px;	
-	}
-	
-	.news-block-two .inner-box .lower-content{
-		padding:20px 20px 50px;	
-	}
-	
-	.blog-categories li a{
-		padding:16px 0px 16px 30px;
-		font-size:16px;	
-	}
-	
-	.blog-categories li a:before{
-		left:5px;	
-	}
-	
-	.blog-detail .inner-box .lower-content .content-inner .title-box{
-		margin:20px 0px 30px;
-		padding:25px 20px;	
-	}
-	
-	.blog-detail .inner-box .lower-content .content-inner .title-box h2{
-		font-size:20px;	
-	}
-	
-	.blog-detail .inner-box .lower-content .text blockquote{
-		padding:50px 20px;	
-	}
+
 	
 	.sidebar-page-container .comments-area .comment{
 		padding-left:0px;	
@@ -1124,10 +1096,7 @@
 		text-align:center;
 	}
 	
-	.news-block-two .inner-box .lower-content h3,
-	.news-block-three .inner-box h4{
-		font-size:20px;	
-	}
+
 	
 	.sidebar .popular-posts .post .post-inner{
 		padding-left:0px;	
