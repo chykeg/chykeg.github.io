@@ -1472,9 +1472,13 @@ PICTURE GALLERY
 ***/
 .masonry-true img {
 	display: block;
-	width: 100%;
+	width: 95%;
 	height: 411px;
 	margin: 5px;
+	border: 5px solid #afa6a6;
+	border-radius: 15px;
+	
+	
 }
 
 /*** 
